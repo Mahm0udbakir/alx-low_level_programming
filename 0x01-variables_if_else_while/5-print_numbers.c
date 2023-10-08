@@ -9,13 +9,11 @@
 
 int main(void)
 {
-	int digit = 0;
+	int digit;
 
-	while (digit <= 9)
-
+	while (digit = 0; digit <= 9; digit++)
 	{
 	printf ("%d", digit);
-	digit++;
 	}
 
 	printf("\n");
